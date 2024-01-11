@@ -1,0 +1,63 @@
+---
+title: "Stephanie Elizabeth Hereira Pacheco"
+image: "foto.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/stephanie-hereira-9105102a/"
+  - label: Twitter
+    url: "https://twitter.com/shereirap"
+  - label: GitHub
+    url: "https://github.com/Steph0522"
+  - label: Email
+    url: "shereirap@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+ 
+
+Stephanie Hereira is an Agricultural Engineer, holding a degree from the Universidad del Atlántico in Colombia. She pursued further studies and earned her master's and Ph.D. in Biotechnology from Cinvestav, IPN. Following her academic achievements, she undertook a postdoctoral position at the CTBC of the Universidad Autónoma de Tlaxcala. Currently, she serves as a professor-investigator at the Centro de Investigación en Ciencias Biológicas of the Universidad Autónoma de Tlaxcala, specializing in the Biotic Interactions Laboratory.
+
+Her expertise spans across statistics, bioinformatics, molecular biology, and microbial ecology. Stephanie also possesses extensive experience and a keen interest in the study of antioxidants and phenolic extracts.
+
+Stephanie's ongoing research is centered on identifying the environmental and ecological factors that shape the taxonomic and functional diversity of fungal communities in forest soils. This involves employing advanced metagenomic and "metabarcoding" analyses, with sampling sites situated in the National Parks "Iztaccíhuatl–Popocatépetl" (PNIP) and "La Malinche" (PNLM) in the state of Tlaxcala.
+
+Collaborating with YenLab, Stephanie contributes to the analysis and exploration of various projects related to the microbiome of lizards from the genus Scelopurus. This involves unraveling how different ecological factors influence the structure of bacterial communities in these host species. Additionally, she actively participates in other projects concerning land-use change and advocates for the benefits of maintaining sustainable agriculture.
+
+
+
+
+## Education
+
+**Centro de investigación y estudios avanzados del IPN** | CDMX, México 
+
+Ph.D. in Science with a specialization in Biotechnology. | January 2016 - December 2020
+
+**Centro de investigación y estudios avanzados del IPN** | CDMX, México 
+
+Master in Science with a specialization in Biotechnology. | September 2013 - August 2015
+
+**Universidad del Atlántico** | Barranquilla, Colombia. 
+
+Agricultural Engineer. | January 2008 - May 2013
+
+
+## Experience
+
+**Centro de Investigación en Ciencias Biológicas, UATx** | Principal Investigator | October 2022 - Present
+
+**Centro Tlaxcala Biología de la Conductam UATx** | Posdoctoral Scientist | October 2021 - September 2023
+
+
+## Scientific Publications
+
+1. Hereira-Pacheco, S. E., Estrada-Torres, A., Dendooven, L., & Navarro-Noya, Y. E. (2023). Shifts in root-associated fungal communities under drought conditions in ricinus communis. Fungal Ecology, 63, 101225.
+2. Hereira-Pacheco, S. E., Navarro-Noya, Y. E., & Dendooven, L. (2021). The root endophytic bacterial community of Ricinus communis L. resembles the seeds community more than the rhizosphere bacteria independent of soil water content. Scientific Reports, 11(1).
+3. Hernández, M., Ancona, S., Díaz De La Vega-Pérez, A. H., Muñoz-Arenas, L. C., Hereira-Pacheco, S. E., & NavarroNoya, Y. E. (2022). Is Habitat More Important than Phylogenetic Relatedness for Elucidating the Gut Bacterial Composition in Sister Lizard Species? Microbes and Environments, 37(3).
+4. Hernández, M., Ancona, S., Hereira-Pacheco, S., Díaz de la Vega-Pérez, A. H., & Navarro-Nota, Y. E. (n.d.). Comparative analysis of two nonlethal methods for the study of the gut bacterial communities in wild lizards. Integrative Zoology, n/a(n/a).
+5. Hernández, M., Hereira-Pacheco, S., Alberdi, A., Díaz de la Vega-Pérez, A. H., Estrada-Torres, A., Ancona, S., & Navaro-Nota, Y. E. (n.d.). DNA metabarcoding reveals seasonal changes in diet composition across four arthropod-eating lizard species (phrynosomatidae: sceloporus). Integrative Zoology, n/a(n/a).
+6. Montoya-Ciriaco, N., Hereira-Pacheco, S., Estrada-Torres, A., Dendooven, L., Méndez de la Cruz, F. R., GómezAcata, E. S., Díaz de la Vega-Pérez, A. H., & Navaro-Nota, Y. E. (2023). Maternal transmission of bacterial microbiota during embryonic development in a viviparous lizard. Microbiology Spectrum, 11(6), e01780-23.
+7. Navarro-Noya, Y. E., Chávez-Romero, Y., Hereira-Pacheco, S., de León Lorenzana, A. S., Govaerts, B., Verhulst, N., & Dendooven, L. (2022). Bacterial Communities in the Rhizosphere at Different Growth Stages of Maize Cultivated in Soil Under Conventional and Conservation Agricultural Practices. Microbiology Spectrum, 10(2).
+8. Navarro-Noya, Y. E., Montoya-Ciriaco, N., Muñoz-Arenas, L. C., Hereira-Pacheco, S., Estrada-Torres, A., & Dendooven, L. (2021). Conversion of a high-altitude temperate forest for agriculture reduced alpha and beta diversity of the soil fungal communities as revealed by a metabarcoding analysis. Frontiers in Microbiology, 12.
+9. Salazar-Montoya, J. A., Hereira-Pacheco, S., Cruz-Orea, A., & Ramos-Ramírez, E. G. (2022). Composition, antioxidant activity and rheological characteristics of spreadable pastes with blackberry pulp (Rubus fruticosus). Journal of Food Measurement and Characterization, 16(2), 1459–1471
